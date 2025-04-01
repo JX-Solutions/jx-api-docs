@@ -1,10 +1,8 @@
 {
     "info": {
-        "_postman_id": "7cfd5fce-552c-4507-9f23-59369f07868b",
         "name": "JX Solutions - Public API",
         "description": "Public interface between clients and JX backend services",
-        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-        "_exporter_id": "14647720"
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
